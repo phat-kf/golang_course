@@ -65,5 +65,3 @@ Mastering Golang requires a structured approach, including understanding the fun
 - Attend Go conferences and **GopherCon**.
 
 ---
-
-Would you like to start with a specific project, like a REST API with Echo? 🚀
