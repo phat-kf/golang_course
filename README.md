@@ -6,8 +6,8 @@ Mastering Golang requires a structured approach, including understanding the fun
 - **Install Go**: [Download and install Go](https://go.dev/doc/install)
 - **Understand Go Modules**: Learn how dependency management works in Go.
 - **Go Syntax & Fundamentals**:
-  - Variables, constants, and data types
-  - Functions and methods
+  - [Variables, Constants, and Data Types](./var_const_and_data_type.md)
+  - [Functions and methods](./func_and_method.md)
   - Pointers
   - Structs and interfaces
   - Arrays, slices, and maps
