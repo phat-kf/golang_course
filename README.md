@@ -8,7 +8,7 @@ Mastering Golang requires a structured approach, including understanding the fun
 - **Go Syntax & Fundamentals**:
   - [Variables, Constants, and Data Types](./var_const_and_data_type.md)
   - [Functions and methods](./func_and_method.md)
-  - Pointers
+  - [Pointers](./pointers.md)
   - Structs and interfaces
   - Arrays, slices, and maps
   - Control structures (if, switch, loops)
