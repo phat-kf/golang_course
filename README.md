@@ -9,9 +9,9 @@ Mastering Golang requires a structured approach, including understanding the fun
   - [Variables, Constants, and Data Types](./var_const_and_data_type.md)
   - [Functions and methods](./func_and_method.md)
   - [Pointers](./pointers.md)
-  - Structs and interfaces
-  - Arrays, slices, and maps
-  - Control structures (if, switch, loops)
+  - [Structs and interfaces](./struct_and_interface.md)
+  - [Arrays, slices, and maps](./struct_and_interface.md)
+  - [Control structures (if, switch, loops)](./flow_control.md)
 
 📚 **Resources:**
 - [Go Tour](https://tour.golang.org/) – Interactive tutorial
